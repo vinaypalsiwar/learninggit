@@ -1,1 +1,18 @@
-hi i am vinay
+git commands:-
+***************
+commands to push the code to remote repo
+******************************************
+
+git init - this command intitialize git repo
+
+git add filename  - to add untracked files to tracked files(staging area)
+
+git commit -m "msg"
+
+git remote add origin url
+
+git push -u origin master
+
+command to clone repo
+***********************
+git clone url
